@@ -108,11 +108,6 @@ skinparam backgroundColor 777
 
 ' Class diagrams
 
-skinparam circledCharacter {
-  radius 8
-  fontSize FONTSIZE
-  fontName FONTNAME
-}
 
 ' Sequence diagrams
 
