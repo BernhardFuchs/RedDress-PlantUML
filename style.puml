@@ -114,16 +114,6 @@ skinparam circledCharacter {
   fontName FONTNAME
 }
 
-skinparam class {
-  BASICSTYLE
-  FONTSTYLE
-  ARROWSTYLE
-
-  attributeFontColor SECONDARY
-  attributeFontSize FONTSIZE
-  attributeIconSize FONTSIZE
-}
-
 ' Sequence diagrams
 
 skinparam actor {
